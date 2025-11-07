@@ -1,0 +1,540 @@
+
+
+<!DOCTYPE html>
+<html lang="en" prefix="og:http://ogp.me/ns#">
+  <head>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="_Aph7-8BbLDYtY_nxNtXzglQrJnGR3w1M5E3kLs9e0INPhgdEJEZONQRiacspFvbfiK0pDGOVnT8JNjPLQGzgw" />
+<meta charset="utf-8" />
+<!-- added for use on small devices like phones -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="resourcesync" href="https://dl.tufts.edu/capabilitylist" />
+
+<!-- Twitter card metadata -->
+
+<!-- Google Scholar metadata -->
+
+
+<title>PDF | The Milk of Human Intentionality | ID: 9k41zr835 | Tufts Digital Library</title>
+
+<!-- application css -->
+<link rel="stylesheet" media="screen" href="/assets/application-f03d67ad1216bf322392c523dd04590e74cffec9d25a5f55a1799b044e461d25.css" />
+
+<!-- application js -->
+<script src="/assets/application-f5aa7772845d1ddbf819c28ea11174f8682433f9766057ba9be738fe40db15ad.js"></script>
+
+<style>
+a { color: #2e74b2; }
+.navbar-inverse .navbar-link { color: #ffebcd; }
+
+.navbar-inverse { background-color: #3c3c3c; }
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus { background-color: #3c3c3c; }
+
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-text,
+.navbar-inverse .navbar-brand { color: #dcdcdc; }
+
+.btn-primary {
+  background-color: #286090;
+  border-color: #265b89;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+  background-color: #245682;
+  border-color: #1d4467;
+}
+
+.btn-primary:hover {
+  background-color: #245682;
+  border-color: #215079;
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #286090;
+  border-color: #265b89;
+}
+
+.btn-primary:active:hover,
+.btn-primary:active:focus,
+.btn-primary:active.focus,
+.btn-primary.active:hover,
+.btn-primary.active:focus,
+.btn-primary.active.focus{
+  background-color: #286090;
+  border-color: #265b89;
+}
+
+.btn-primary.disabled:hover,
+.btn-primary.disabled:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled]:hover,
+.btn-primary[disabled]:focus,
+.btn-primary[disabled].focus {
+  background-color: #286090;
+  border-color: #265b89;
+}
+
+</style>
+
+
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38431398-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  window.analytics = _gaq;
+</script>
+<meta name="analytics-provider" content="google">
+
+
+<!-- for extras, e.g., a favicon -->
+
+
+    
+    <!-- Google tag (gtag.js) -->
+
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-5QWMGNGCT3'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5QWMGNGCT3');
+</script>
+
+<!-- Required -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGG4X34');</script>
+<!-- End Google Tag Manager -->
+
+
+    <link rel="stylesheet" href="https://use.typekit.net/vhn3dzi.css">
+
+  </head>
+
+  <body  >
+    
+<!-- optional -->
+<!-- after opening the body -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGG4X34"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div class="skip-to-content">
+      <a data-turbolinks="false" href="#skip-to-content">Skip to Content</a>
+    </div>
+    <header>
+  <nav>
+    <div class="masthead-nav upper">
+      <ul>
+        <li>
+          <a data-toggle="modal" data-target="#aeon-cart-modal" href="#">
+            My List (<span class="listCount">0</span>)
+            <span class="icon-flipped glyphicon glyphicon-shopping-cart glyph-left" aria-hidden="true"></span>
+</a>        </li>
+        <li>
+              <a rel="nofollow" data-method="post" href="/sign_in">Login</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="masthead-nav lower">
+      <ul>
+        <li><a href="/contact?item_referral=%2Fconcern%2Fpdfs%2F9k41zr835">Contact</a></li>
+        <li><a href="https://dl.tufts.edu/help">Help</a></li>
+        <li><a href="https://dl.tufts.edu/about">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <a class="no-underline masthead-wrapper" href="/">
+    <div class="masthead-logo">
+      <span class="logo-text">
+        <span class="only-for-screen-readers">Tufts</span> Digital Library
+      </span>
+    </div>
+  </a>
+</header>
+
+      <div id ="tufts-searchbar-wrapper">
+  <div id="tufts-searchbar">
+      <div class="container">
+        
+          <div class="tdl-search-widgets">
+    <ul class="tdl-right-nav">
+      <li>
+        <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+        <a class="list-add" data-turbolinks="false"
+          href=""
+          data-pid="9k41zr835"
+          download="9k41zr835"
+          data-identifier="9k41zr835"
+          data-site="TARC"
+          data-author="Dennett, Daniel C."
+          data-itemauthor="Dennett, Daniel C."
+          data-iteminfo2="Dennett, Daniel C."
+          data-iteminfo3="http://hdl.handle.net/10427/57583"
+          data-itemdate="1980"
+          data-itemtitle="Daniel C. Dennett papers"
+
+            data-itemsubtitle="The Milk of Human Intentionality"
+
+            data-itemvolume="9k41zr835"
+              data-callnumber="MS138"
+          >
+          Add to List
+        </a>
+      </li>
+      <li>
+        <span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+        <a class="" data-turbolinks="false"
+          href="/downloads/xp68kt636?filename=9k41zr835.pdf"
+          data-pid="9k41zr835"
+          download="9k41zr835"
+          data-identifier="9k41zr835"
+          data-site="TARC"
+          data-author="Dennett, Daniel C."
+          data-itemauthor="Dennett, Daniel C."
+          data-iteminfo2="Dennett, Daniel C."
+          data-iteminfo3="http://hdl.handle.net/10427/57583"
+          data-itemdate="1980"
+          data-itemtitle="Daniel C. Dennett papers"
+
+            data-itemsubtitle="The Milk of Human Intentionality"
+
+            data-itemvolume="9k41zr835"
+              data-callnumber="MS138"
+          id='file_download' target='_blank' data-label='PDF: xp68kt636'>
+          Download PDF
+        </a>
+      </li>
+    </ul>
+  </div>
+
+      </div>
+  </div> <!-- End tufts-searchbar -->
+</div>
+    
+    
+    <div id="content-wrapper" class="container" role="main">
+      
+        <div class="row">
+          <div class="col-xs-12 main-header">
+              <h2> The Milk of Human Intentionality </h2>
+  
+      <p>Dennett, Daniel C.</p>
+
+  <p>1980</p>
+
+          </div>
+        </div>
+
+        <a id="skip-to-content"></a>
+        
+<div class="col-md-12 tdl-content tdl-show-image">
+  <div class="row col-md-6">
+        <a data-turbolinks="false" class="thumbnail" href="/pdfviewer/xp68kt636/9k41zr835">
+          <img src="/downloads/xp68kt636?file=thumbnail" />
+</a>
+      <h6>
+          <a data-turbolinks="false" href="/pdfviewer/xp68kt636/9k41zr835">
+            open in viewer <span class="glyphicon glyphicon-share" aria-hidden="true"></span>
+</a>     </h6>
+  </div>
+  <div class="col-md-6">
+    <dl class="metadatapane">
+    <tr><th>Description</th>
+    <td>
+    <ul class='tabular'><li itemprop="about" itemscope itemtype="http://schema.org/Thing" class="attribute attribute-subject">
+      Dennett, Daniel C. "The Milk of Human Intentionality." Behavioral and Brain Sciences 3 (1980): 428-30.
+    </ul>
+    </td></tr>
+
+    This object is in collection
+    <ul class="tabular">
+      <li class="attribute attribute-source">
+        <a href="/catalog?f%5Bmember_of_collections_ssim%5D%5B%5D=Daniel+C.+Dennett+papers">Daniel C. Dennett papers</a>
+      </li>
+    </ul>
+
+
+  
+  
+  <tr><th>Subject</th>
+<td><ul class='tabular'><li itemprop="about" itemscope itemtype="http://schema.org/Thing" class="attribute attribute-subject"><span itemprop="name"><a href="/catalog?locale=en&amp;q=Intentionality&amp;search_field=subject">Intentionality</a></span></li></ul></td></tr>
+  
+  <tr><th>Temporal</th>
+<td><ul class='tabular'><li class="attribute attribute-temporal"><a href="/catalog?locale=en&amp;q=1980&amp;search_field=temporal">1980</a></li></ul></td></tr>
+  <tr><th>Permanent URL</th>
+<td><ul class='tabular'><li class="attribute attribute-permanent_url"><a href="http://hdl.handle.net/10427/57583">http://hdl.handle.net/10427/57583</a></li></ul></td></tr>
+  
+  <tr><th>Extent</th>
+<td><ul class='tabular'><li class="attribute attribute-extent">2577793</li></ul></td></tr>
+  
+  
+  
+  
+
+  <div class="well ">
+    <dl class="dl-horizontal">
+      <dt>ID: </dt>
+      <dd>9k41zr835</dd>
+      <dt>Component ID: </dt>
+      <dd>tufts:ddennett-1980.00002</dd>
+
+
+
+
+      <dt>To Cite:</dt>
+      <dd><a target="_blank" href="http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/">TARC Citation Guide</a>
+        &nbsp;&nbsp;
+        <a href="/concern/pdfs/9k41zr835.endnote">EndNote</a>
+      </dd>
+        <dt>Usage:</dt>
+        <dd><a target="_blank" href="http://dca.tufts.edu/research/policies-fees/reproductions-and-use">Detailed Rights</a></dd>
+
+    </dl>
+  </div>
+</dl>
+
+  </div>
+</div>
+
+
+    </div><!-- /#content-wrapper -->
+    <div class="blue-footer container">
+  <div class="row">
+
+    <div class="col-md-6">
+      <a href="http://www.tufts.edu"><img alt="Go to tufts.edu" src="/assets/tuftsuniversity-89cfe82eab49210248c0cbaaf115844649886fe5d3702595a13629505c75ec36.png" /></a>
+    </div>
+
+    <div class="row pull-right col-md-3" id="copyright">
+      <span> &copy; 2025 Tufts University </span>
+    </div>
+
+  </div>
+  <div class="modal fade modal_1200wide" id="aeon-cart-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button class="close" data-dismiss="modal">×</button>
+        <h3>My List : <span class="listCount">1</span><span class="listCountText">&nbsp;Item</span></h3>
+      </div>
+      <div class="modal-body">
+
+        <form id="listContentForm">
+          <div class="myListContents"></div>
+        </form>
+        <form id="requestForm" method="post" target="new" action="https://tascr.tufts.edu/aeon.dll">
+          <!-- Aeon inputs -->
+          <!-- Note that EADs no longer exist in TDL, but we're leaving the attribute 'value="EADRequest"'
+               so that we don't also have to change it on the Aeon side  -->
+          <input type="hidden" name="AeonForm" value="EADRequest" />
+          <input id="webRequestForm" type="hidden" name="WebRequestForm" value="DefaultRequest" />
+          <input id="requestType" type="hidden" name="RequestType" value="Loan" />
+          <input type="hidden" name="DocumentType" value="Default" />
+          <input type="hidden" name="GroupingIdentifier" value="GroupingField" />
+          <input type="hidden" name="GroupingOption_ItemInfo1" value="Concatenate" />
+          <input type="hidden" name="GroupingOption_ItemDate" value="Concatenate" />
+          <input type="hidden" name="GroupingOption_ItemTitle" value="FirstValue" />
+          <input type="hidden" name="GroupingOption_ItemAuthor" value="FirstValue" />
+          <input type="hidden" name="GroupingOption_ItemSubtitle" value="FirstValue" />
+          <input type="hidden" name="GroupingOption_ItemVolume" value="FirstValue" />
+          <input type="hidden" name="GroupingOption_ItemIssue" value="Concatenate" />
+          <input type="hidden" name="GroupingOption_ItemInfo2" value="Concatenate" />
+          <input type="hidden" name="GroupingOption_CallNumber" value="FirstValue" />
+          <input type="hidden" name="GroupingOption_ItemInfo3" value="FirstValue" />
+          <input type="hidden" name="SubmitButton" value="Submit Request" />
+          <input type="hidden" name="UserReview" value="No" />
+          <div id="myListActions"></div>
+          <div id="myReviewActions" class="myList">
+            <h2>Save in TASCR</h2>
+
+            <div class="third">
+              <label class="control-label">This request will be saved in TASCR, but won't be retrieved until you submit it for processing.</label>
+            </div>
+
+            <div class="third notes">
+              <div class="form-group">
+                <label class="control-label" for="SpecialRequest">Special Requests/Questions</label>
+                <textarea class="form-control" rows="2" name="SpecialRequest"></textarea>
+                <span class="help-block">Please enter any special requests or questions for TARC staff.</span>
+              </div>
+            </div>
+            <div class="third notes">
+              <div class="form-group">
+                <label class="control-label" for="Notes">Notes</label>
+                <textarea class="form-control" rows="2" name="Notes"></textarea>
+                <span class="help-block">Enter any notes about this request for your personal reference here.</span>
+              </div>
+            </div>
+            <div id="reservationActions" class="listActions">
+              <button class="btn btn-default back_button">Back</button>
+              <button id="reviewItemsButton" class="btn btn-default">Save</button>
+            </div>
+          </div>
+          <div id="myRequestActions" class="myList">
+            <h2>Reading Room Request</h2>
+                <p class="additional_notes">Planning a visit? <a href="http://sites.tufts.edu/dca/about-us/planning-a-visit/">Read more here.</a></p>
+                <p class="additional_notes">Note: Reading Room Hours, M-F, 9 am - 3:45 pm. Some material may be stored offsite and require up to two business days for retrieval.</p>
+              <div class="third notes">
+                <div class="form-group">
+                  <label class="control-label" for="SpecialRequest">Special Requests/Questions</label>
+                  <textarea class="form-control" rows="2" name="SpecialRequest"></textarea>
+                  <span class="help-block">Please enter any special requests or questions for TARC staff.</span>
+                </div>
+              </div>
+              <div class="third notes">
+                <div class="form-group">
+                  <label class="control-label" for="Notes">Notes</label>
+                  <textarea class="form-control" rows="2" name="Notes"></textarea>
+                  <span class="help-block">Enter any notes about this request for your personal reference here.</span>
+                </div>
+              </div>
+              <div id="reservationActions" class="listActions">
+                <button class="btn btn-default back_button">Back</button>
+                <button id="requestItemsButton" class="btn btn-default">Submit Reading Room Request</button>
+              </div>
+            </div>
+            <div id="myReproductionActions" class="myList">
+              <h2>Reproduction Request</h2>
+              <div class="third">
+                <div class="form-group">
+                  <label class="control-label required" for="Format">Format</label>
+                  <!-- These options mush match exactly the list in the Aeon list of formats -->
+                  <select id="Format" class="form-control" name="Format">
+                    <option/>
+                    <option>JPG</option>
+                    <option>PDF</option>
+                    <option>Photocopy</option>
+                    <option>TIFF</option>
+                  </select>
+                  <p class="help-block text-danger" id="formatError">Please select a format.
+                  </p>
+                </div>
+                <div class="form-group">
+                  <label class="control-label required" for="ItemPages">Description of
+                    Materials</label>
+                    <input id="ItemPages" class="form-control" name="ItemPages" type="text" placeholder="Describe the materials you want reproduced" />
+                    <p class="help-block text-danger" id="itemPagesError">Describe the materials you want reproduced (example: entire folder, letter dated Sept. 1, 1947)</p>
+                  </div>
+                  <div class="form-group">
+                    <input id="ReadAgreement" name="ReadAgreement" type="checkbox" />
+                    <label id="ReadAgreementLabel" class="control-label required" for="ReadAgreement">  I have read and agree to abide by TARC's
+                      <a href="http://sites.tufts.edu/dca/about-us/research-help/reproductions-and-use/" target="_blank">Reproduction and Use policies.</a>
+                    </label><br/>
+
+
+                    <input id="ForPublication" name="ForPublication" type="checkbox" value="Yes" /> &nbsp;If you intend to publish this material, check this box.
+                  </div>
+                </div>
+                <div class="third notes">
+                  <div class="form-group">
+                    <label class="control-label" for="SpecialRequest">Special Requests/Questions</label>
+                    <textarea class="form-control" rows="2" name="SpecialRequest"></textarea>
+                    <span class="help-block">Please enter any special requests or questions for TARC staff.</span>
+                  </div>
+                </div>
+                <div class="third notes">
+                  <div class="form-group">
+                    <label class="control-label" for="Notes">Notes</label>
+                    <textarea class="form-control" rows="2" name="Notes"></textarea>
+                    <span class="help-block">Enter any notes about this request for your personal reference here.</span>
+                  </div>
+                </div>
+                <div id="reproductionActions" class="listActions">
+                  <div class="button_panel">
+                    <button class="btn btn-default back_button">Back</button>
+                    <button id="requestReproductionButton" class="btn btn-default">Submit Reproduction Request</button>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="modal fade modal_1200wide" tabindex="-1" id="dialogMyListRequestConfirm" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button class="close" data-dismiss="modal">×</button>
+            <h3>Request Confirmation</h3>
+          </div>
+          <div class="modal-body">
+
+            <div class="overlay" id="myListRequestConfirm">
+              <div class="confirm">
+                <h1>Your request has been sent!</h1>
+
+                <p>You must be logged into <a href="https://tascr.tufts.edu/">your account</a> in order for your request to be submitted.
+                  <a href="https://tascr.tufts.edu/aeon.dll" target="_blank">Click here</a> to view your requests.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal fade modal_1200wide" tabindex="-1" id="dialogMyListSaveConfirm" role="dialog">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button class="close" data-dismiss="modal">×</button>
+              <h3>Save in TASCR Confirmation</h3>
+            </div>
+            <div class="modal-body">
+
+              <div class="overlay" id="myListRequestConfirm">
+                <div class="confirm">
+                  <h1>Your request has been sent!</h1>
+
+                  <p>This request will be saved in TASCR, but won't be retrieved until you submit it for processing.
+
+                    <a href="https://tascr.tufts.edu/aeon.dll" target="_blank">Click here</a> to view your requests.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--cart modal-->
+
+  <!-- Image Overlay Modal-->
+<div class="modal fade modal_650wide modal-level2" tabindex="-1" id="myImageOverlay">  
+</div>
+<!-- Image Gallery Modal-->
+<div class="modal fade modal_1200wide" tabindex="-1" id="myImageGallery" role="dialog">
+</div>
+
+</div>
+
+    <div id="ajax-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+
+  </body>
+</html>
+
